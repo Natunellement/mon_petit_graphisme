@@ -1,0 +1,117 @@
+body {
+    padding: 10px 100px;
+}
+
+a p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pic img {
+  padding: 0;
+  height: 100%;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+}
+
+nav ul li {
+    list-style-type: none; 
+}
+
+nav ul {
+    display: flex;
+    padding: block;
+}
+
+.un {
+    margin-right: 30px;
+}
+
+.one img {
+    width: 150px;
+    height: 50px;
+}
+
+.one {
+    background-image: url(image/backgroung_image.jpg);
+    block-size: cover;
+    background-position: center;
+    height: 30vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-block: auto;
+    display: flex;
+    padding: 170px 170px 170px 170px;
+}
+
+.one h2 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.two {
+    text-align: center;
+    position: relative;
+    justify-content: center;
+}
+
+
+.flex {
+    display: flex;
+    width: 700px;
+    margin: 50px 0 50px 180px;
+}
+
+.Boite {
+    padding: 0 15px;
+}
+
+
+.Propre {
+    width: 500px;
+    margin-left: 280px;
+}
+
+.Chic {
+    font-size: small;
+}
+
+footer {
+    height: 200px;
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+.espace {
+    display: flex;
+    justify-content: space-between;
+}
+
+.parfait ul li {
+    list-style-type: none;
+}
+
+.repos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.twitter {
+    margin-left: 400px;
+}
+
+.instagram {
+    margin-right: 400px;
+}
